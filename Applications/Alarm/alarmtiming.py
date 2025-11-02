@@ -40,4 +40,4 @@ while True:
         break
 
 
-    #This is for pull shark badg
+    #This is for pull shark bad
